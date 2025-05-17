@@ -1,7 +1,7 @@
 {
   "name": "bwm-xmd-chat",
   "version": "1.0.0",
-  "description": "BWM XMD Chatting Zone - Futuristic Real-Time Chat",
+  "description": "𝙕𝘼𝙄𝘿 𝘽𝘼𝘿𝘼𝙉𝘼 𝘾𝙃𝘼𝙏𝙄𝙉𝙂 𝙕𝙊𝙉𝙀 - 𝙁𝙐𝙏𝙐𝙍𝙄𝙎𝙏𝙄𝘾 𝙍𝙀𝘼𝙇 𝙏𝙄𝙈𝙀 𝘾𝙃𝘼𝙏",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
